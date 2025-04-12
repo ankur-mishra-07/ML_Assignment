@@ -140,7 +140,6 @@ webcolors==24.11.1
 webencodings==0.5.1
 websocket-client==1.8.0
 zipp==3.21.0
-streamlit==0.87.0
 matplotlib==3.4.2
 plotly==5.1.0
 pandas==1.2.4
