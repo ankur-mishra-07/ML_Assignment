@@ -18,10 +18,10 @@
 
 # UnComment the following lines to install streamlit if not already installed
 import subprocess
-subprocess.check_call(["pip3", "install", "streamlit"])
-subprocess.check_call(["pip3", "install", "scikit-learn"])
-subprocess.check_call(["pip3", "install", "matplotlib"])
-subprocess.check_call(["pip3", "install", "kagglehub"])
+subprocess.check_call(["pip", "install", "streamlit"])
+subprocess.check_call(["pip", "install", "scikit-learn"])
+subprocess.check_call(["pip", "install", "matplotlib"])
+subprocess.check_call(["pip", "install", "kagglehub"])
 
 import os
 import numpy as np
